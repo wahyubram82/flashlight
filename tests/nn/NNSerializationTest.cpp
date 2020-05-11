@@ -10,7 +10,7 @@
 #include <sys/stat.h>
 #include <memory>
 #include <string>
-
+#include <algorithm>
 #include <arrayfire.h>
 #include <gtest/gtest.h>
 
